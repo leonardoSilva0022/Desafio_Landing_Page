@@ -1,0 +1,220 @@
+*, *::before, *::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #d9694e;
+  font-family: 'Source Sans 3', sans-serif;
+  color: #1a1a1a;
+  min-height: 100vh;
+  padding: 48px 24px 80px;
+}
+
+
+.main-div {
+  background-color: #faf7f2;
+  border-radius: 24px;
+  max-width: 680px;
+  margin: 0 auto;
+  padding: 48px 40px 64px;
+  box-shadow: 0 8px 48px rgba(0,0,0,0.18);
+}
+
+header {
+  margin-bottom: 28px;
+}
+
+.top-label {
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: #e1624f;
+  display: block;
+  margin-bottom: 10px;
+}
+
+h1 {
+  font-family: 'Playfair Display', Georgia, serif;
+  font-size: 48px;
+  font-weight: 700;
+  line-height: 1.1;
+  color: #1a1a1a;
+}
+
+.main-banner img {
+  width: 100%;
+  height: 340px;
+  object-fit: cover;
+  border-radius: 20px;
+  display: block;
+}
+
+.main-banner figcaption {
+  font-size: 13px;
+  color: #888;
+  line-height: 1.7;
+  margin-top: 12px;
+}
+
+.divider {
+  border: none;
+  border-top: 1px solid #d9d3c8;
+  margin: 36px 0;
+}
+
+.section-label {
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: #e1624f;
+  display: block;
+  margin-bottom: 10px;
+}
+
+h2 {
+  font-family: 'Playfair Display', Georgia, serif;
+  font-size: 28px;
+  font-weight: 700;
+  line-height: 1.25;
+  color: #1a1a1a;
+  margin-bottom: 14px;
+}
+
+.section-description {
+  font-size: 15px;
+  line-height: 1.8;
+  color: #555;
+  margin-bottom: 32px;
+}
+
+.destination-card {
+  display: flex;
+  flex-direction: column;
+  gap: 28px;
+}
+
+.destination-card > img {
+  width: 100%;
+  height: 260px;
+  object-fit: cover;
+  border-radius: 20px;
+  display: block;
+}
+
+.destination-info {
+  display: flex;
+  flex-direction: column;
+  gap: 28px;
+}
+
+h3 {
+  font-family: 'Playfair Display', serif;
+  font-size: 20px;
+  font-weight: 700;
+  color: #1a1a1a;
+  margin-bottom: 8px;
+}
+
+.destination-info > h3 {
+  margin-bottom: 8px;
+}
+
+.destination-info > p {
+  font-size: 15px;
+  line-height: 1.8;
+  color: #555;
+}
+
+/* TAGS */
+.tags {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-top: 10px;
+}
+
+.tags strong {
+  font-size: 12px;
+  color: #888;
+  font-weight: 600;
+}
+
+.tags ul {
+  list-style: none;
+  display: flex;
+  gap: 8px;
+}
+
+.tags ul li {
+  font-size: 11px;
+  font-weight: 500;
+  background: #fde8e4;
+  color: #e1624f;
+  padding: 3px 10px;
+  border-radius: 20px;
+  letter-spacing: 0.04em;
+}
+
+/* SEÇÕES INTERNAS (templo e parque) */
+.templo-headon,
+.attractions section {
+  background: #fff;
+  border-radius: 16px;
+  padding: 20px;
+  box-shadow: 0 2px 12px rgba(0,0,0,0.06);
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+}
+
+.templo-headon img,
+.attractions section img {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+  border-radius: 12px;
+  display: block;
+}
+
+.templo-headon p,
+.attractions section p {
+  font-size: 14px;
+  line-height: 1.75;
+  color: #555;
+}
+
+/* FOOTER */
+.dividir {
+  border: none;
+  border-top: 1px solid rgba(255,255,255,0.25);
+  margin: 36px auto;
+  max-width: 680px;
+}
+
+.footer-simple {
+  max-width: 680px;
+  margin: 0 auto;
+  text-align: center;
+  padding: 0 24px 48px;
+}
+
+.footer-simple h4 {
+  font-family: 'Playfair Display', serif;
+  font-size: 16px;
+  font-style: italic;
+  font-weight: 400;
+  color: rgba(255,255,255,0.85);
+  line-height: 1.7;
+  margin-bottom: 16px;
+}
+
+.footer-simple p {
+  font-size: 12px;
+  color: rgba(255,255,255,0.5);
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+}
