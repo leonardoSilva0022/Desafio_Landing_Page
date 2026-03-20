@@ -2,7 +2,8 @@
 
 **Sua Próxima Viagem:** Busan, a estrela em ascensão da Coreia do Sul
 
-![Busan à noite](Desafio_Landing_Page/assets/README.JPG)
+![Busan à noite](<img width="754" height="642" alt="README" src="https://github.com/user-attachments/assets/7fc7fe8b-98f3-4498-84bc-a3ddb47a0d63" />
+)
 
 Um site simples de landing page para promover destinos turísticos inspiradores. O projeto é feito com HTML e CSS puros, ideal para aprendizado, prototipagem ou como base para um portfólio.
 
