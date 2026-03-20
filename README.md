@@ -1,46 +1,28 @@
-# Conheça Busan 🇰🇷
+# Local Turístico
 
-## Sobre
 
-Busan é a segunda maior cidade da Coreia do Sul e oferece uma experiência única para viajantes. Da culinária sofisticada às barracas tradicionais de comida de rua, a cidade combina modernidade e cultura de forma incomparável.
+Um site simples de landing page para promover destinos turísticos inspiradores. O projeto é feito com HTML e CSS puros, ideal para aprendizado, prototipagem ou como base para um portfólio.
 
-## O que Explorar
+## 🌟 Visão geral
+- Página única (single-page) com seções de **Início**, **Destinos** e **Contato**.
+- Layout responsivo e imagens de exemplo incluídas na pasta `assets/`.
 
-### 🍖 Para os Amantes de Gastronomia
-- Churrascarias de primeira linha com cortes premium
-- Barracas tradicionais de comida de rua (*pojangmacha*)
-- Mercados de frutos do mar frescos
+## ▶️ Como executar
+1. Clone ou faça download deste repositório.
+2. Abra o arquivo `http://127.0.0.1:5501/index.html#inicio` no seu navegador.
 
-### 🏛️ Para os Amantes de História
-- Templos budistas históricos
-- Bairros tradicionais preservados
-- Museus e centros culturais
 
-### 🌉 Pontos Turísticos
-- Ponte Gwangan (vista noturna icônica)
-- Porto de Busan — um dos maiores da Ásia
-- Praia de Haeundae
+## 📁 Estrutura do projeto
+- `index.html` - página principal.
+- `style.css` - estilos usados na página.
+- `assets/` - imagens e recursos usados no site.
 
-## Destaques da Cidade
+## ✨ Personalização
+- Altere o texto em `<section id="destinos">` para adicionar seus próprios destinos.
+- Substitua as imagens em `assets/` por fotos de viagens reais.
+- Edite o cabeçalho e o rodapé para refletir suas informações de contato.
 
-| Aspecto | Descrição |
-|--------|-----------|
-| 📍 Localização | Sudeste da Coreia do Sul |
-| 🏙️ Ranking | 2ª maior cidade do país |
-| 🌊 Característica | Cidade litorânea e portuária |
-| 🍜 Culinária | Frutos do mar, BBQ coreano, comida de rua |
-
-## Como Chegar
-
-- **Avião:** Aeroporto Internacional de Gimhae (PUS)
-- **Trem:** KTX direto de Seul (aprox. 2h30)
-- **Ônibus:** Conexões de todas as principais cidades coreanas
-
-## Melhor Época para Visitar
-
-- **Primavera (março–maio):** Clima agradável e flores de cerejeira
-- **Outono (setembro–novembro):** Temperaturas amenas e festivais
+## 📌 Licença
+O projeto inclui um arquivo de licença em `Local Turístico/LICENSE`. Verifique esse arquivo para detalhes.
 
 ---
-
-*Conteúdo baseado em guia de viagem — explore Busan e descubra por que ela está se tornando um dos destinos mais procurados da Ásia.*
