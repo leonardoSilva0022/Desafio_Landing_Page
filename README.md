@@ -1,9 +1,5 @@
 # Conheça Busan 🇰🇷
 
-> **Sua Próxima Viagem:** Busan, a estrela em ascensão da Coreia do Sul
-
-![Busan à noite](busan-skyline.jpg)
-
 ## Sobre
 
 Busan é a segunda maior cidade da Coreia do Sul e oferece uma experiência única para viajantes. Da culinária sofisticada às barracas tradicionais de comida de rua, a cidade combina modernidade e cultura de forma incomparável.
